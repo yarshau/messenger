@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853888175398",
+    "firebase_url": "https://yar-messenger-default-rtdb.firebaseio.com",
+    "project_id": "yar-messenger",
+    "storage_bucket": "yar-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853888175398:android:d4a6d9bfb637e58dcf05e7",
+        "android_client_info": {
+          "package_name": "com.example.yar_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853888175398-1ti3o5cf00d4uihtso9limnoldcrm8l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRm17RtfhLcf6DcK01FM0R2bI6wuQhf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853888175398-1ti3o5cf00d4uihtso9limnoldcrm8l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
